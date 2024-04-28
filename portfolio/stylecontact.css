@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: url(https://www.bhmpics.com/downloads/wallpaper-plain-white/5.abstract-luxury-plain-blur-grey-black-gradient-used-as-background-studio-wall-display-your-products_1258-63641.jpg);
+}
+.contact{
+    margin-top: 10%;
+    margin-left: 15%;
+
+}
+
+.call{
+    float: right;
+    margin-right: 10%;
+}
+
+
+.Phone{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #302e2e;
+}
+.mail{
+    margin-top: 3%;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #2c2929;
+  }
+
+  .lin{
+    margin-top: 50%;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #292626;
+  }
+  .git{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #2f2c2c;
+  }
+  

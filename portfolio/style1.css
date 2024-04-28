@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRvm0_jdYoOVLoKGag_cxuLj8FcGuhV10Wg&s);
+}
+
+.about{
+    margin-left: 5%;
+    margin: 10%;
+}
+
+.pic{
+    float: right;
+    margin-right: 5%;
+    margin-top: 0%;
+}

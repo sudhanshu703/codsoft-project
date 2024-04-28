@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: url(https://images.saymedia-content.com/.image/t_share/MTkyOTkyMzE2OTQ3MjQ0MjUz/website-background-templates.jpg);
+}
+
+.Skill{
+    margin-top: 5%;
+    margin-left: 10%;
+   
+}
+.pic{
+    float: right;
+}
+
+.html{
+    margin-top: 1%;
+}
+.css{
+    margin-top: 1%;
+}
+.js{
+    margin-top: 1%;
+}
+.python{
+    margin-top: 1%;
+}
+.sql{
+    margin-top: 1%;
+}

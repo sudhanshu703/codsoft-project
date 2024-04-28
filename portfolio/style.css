@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyEMwiAR9dzZBnogg1g0U2rZJiDKAuf_p0BQ&s);
+    color: black;
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.pic{
+    float: right;
+    margin-top: 5%;
+    position: relative;
+}
+
+
+span{
+    margin-top: 2%;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+ul{
+ margin-top: 2%;
+margin-right: 4%;
+}
+
+ul li{
+    display: inline;
+    padding: 15px 15px;
+    margin-right: 0%;
+}
+
+.intro{
+    margin-top: 12%;
+    margin-left: 5%;
+}
+
+.intro .name{
+    font-size: 20px;
+
+}
+
+.intro .work{
+    font-size: 30px;
+
+}
+
+button{
+    margin-top: 5%;
+    cursor: pointer;
+    background: black;
+    color: white;
+    font-weight: 200;
+    border-radius: 10px;
+    border-style:ridge;
+}
+
+button:hover{
+    background-color: rgb(37, 255, 255);
+    color: black;
+    font-size: 15px;
+}
+
+.social{
+    margin-top: 3%;
+    margin-left: 5%;
+}
